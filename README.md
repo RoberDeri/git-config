@@ -1,6 +1,6 @@
 
   
-# Instalación y configuracín de Git en Linux
+# Instalación y configuración de Git en Linux
 Git es un sistema de control de versiones muy popular que se usa para poder insertar modificaciones, acceder a registros anteriores y dividir en ramas alternativas el código fuente de un software en desarrollo. Este se guarda en repositorios (como Github y Gitlab) para facilitar la colaboración con otros trabajadores/usuarios del mismo.
 ## Pasos previos
 Necesitará un servidor Ubuntu 20.04 con una cuenta de súper-usuario no root. Una vez que tenga el servidor y el usuario configurados, estará listo para comenzar. Tambien hay que verificar que Git no esté instalado ya en tu equipo. Compruebe con el siguiente comando:<br>
@@ -31,7 +31,7 @@ Para ello, en Ubuntu ejecute el siguiente código en terminal:
 ```
 add-apt-repository ppa:git-core/ppa
 ```
-Se descargaran una serie de paquetes que para hacerlos efectivos se deben actualizar con:
+Se descargarán una serie de paquetes que para hacerlos efectivos se deben actualizar con:
 ```
 sudo apt update
 ```
