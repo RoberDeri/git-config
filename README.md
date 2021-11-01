@@ -1,4 +1,4 @@
-
+<div align=justify>
   
 # Instalación y configuración de Git en Linux
 Git es un sistema de control de versiones muy popular que se usa para poder insertar modificaciones, acceder a registros anteriores y dividir en ramas alternativas el código fuente de un software en desarrollo. Este se guarda en repositorios (como Github y Gitlab) para facilitar la colaboración con otros trabajadores/usuarios del mismo.
@@ -59,7 +59,7 @@ nano ~/.gitconfig
   name = Your Name
   email = youremail@domain.com 
 ```
-
+</div>
 
 
 
