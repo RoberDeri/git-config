@@ -26,7 +26,7 @@ Cuando se termine la instalación debería mostrar un resultado similar a este:
 git version 2.25.1
 ```
 ## Instalar versiones más recientes
-En el momento de escribir este documento la última versión es la 2.33.1. Desde el [sitio web de Git](https://git-scm.com/download/linux) puedes conseguir la PPA (Personal Package Archive) de la última versión estable de Git. Las PPA son muy útiles pues permite estar siempre actualizado en un paquete/software concreto.<br>
+En el momento de escribir este documento la última versión es la 2.33.1. Desde el [sitio web de Git](https://git-scm.com/download/linux) puedes conseguir la PPA (Personal Package Archive) de la última versión estable de Git. Las PPA son muy útiles pues permiten estar siempre actualizado en un paquete/software concreto.<br><br>
 Para ello, en Ubuntu ejecute el siguiente código en terminal:
 ```
 add-apt-repository ppa:git-core/ppa
@@ -35,7 +35,7 @@ Se descargarán una serie de paquetes que para hacerlos efectivos se deben actua
 ```
 sudo apt update
 ```
-Hecho esto, salga de la terminal y active las actualizaciones que estén pendiente en su aplicación de Actualización de Software. Vuelva a la terminal y compruebe la versión de Git. Debería salir esto: 
+Hecho esto, salga de la terminal y active las actualizaciones que estén pendientes en su aplicación de Actualización de Software. Vuelva a la terminal y compruebe la versión de Git. Debería salir esto: 
 ```
 git version 2.33.1.
 ```
